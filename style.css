@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+body{
+    max-width: 1366px;
+    width: 100%;
+}
+.box1{
+    background-image: url('./beck1.png');
+    width: 1366px;
+    height: 662px;
+    background-position: 50%;
+    background-size: cover;
+}
+
+.nav-p{
+    margin-left: 30px;
+    margin-top: 20px;
+    color: white;
+    display: inline-block;
+    font-family: 'poppins';
+    font-size: 14px;
+    font-weight: 600;
+}
+ul{
+    margin-left: 451px;
+    display: inline-block;
+    color: white;
+    font-family: 'poppins';
+    font-weight: 500;
+    font-size: 12px;
+}
+li{
+    padding-left: 51px;
+    display: inline-block;
+}
+.box1_1{
+    color: white;
+    font-family: 'poppins';
+}
+.box1_1-p1{
+    margin-left: 139px;
+    margin-top: 150px;
+    width: 600px;
+    height: 156px;
+    font-size: 62px;
+    font-weight: 800;
+}
+
+.box1_1-p2{
+    margin-left: 139px;
+    margin-top: 27px;
+    width: 352px;
+    height: 64px;
+    font-size: 14px;
+    font-weight: 400;
+  
+}
+.box1_2{
+    display: flex;
+}
+.arrow{
+    display: flex;
+    
+}
+.box1_2-p{
+    font-family: 'poppins';
+    margin-left: 139px;
+    margin-top: 117px;
+    margin-right: 871px;
+    font-size: 20px;
+    color:#FFFFFF;
+    font-weight: bold;
+}
+
+.box-left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+    background-color: white;
+   width: 51px;
+    height: 51px;
+}
+.box-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+    width: 51px;
+    height: 51px;
+    background-color: blue;
+   
+}
+.arrow img{
+    width: 14px;
+    height: 14px;
+}
+.container{
+    height: 595px;
+    vertical-align: top;
+}
+.container-text{
+    color: black;
+    font-family: 'poppins';
+    margin-left: 120px;
+   
+    display: inline-block;
+   
+}
+.p-hed{
+    width: 306px;
+    font-size: 42px;
+    font-weight: 800px;
+}
+.p11{
+    width: 444px;
+}
+.p22{
+    width: 444px;
+   
+}
+.button{
+    margin-top: 35px;
+    width: 184px;
+    height: 50px;
+    background-color: #5863F8;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.button p{
+    margin-right: 10px;
+    vertical-align: top;
+}
+
+.treimg{
+    display: inline-block;
+    margin-top: 70px;
+    margin-left: 113px;
+    width: 544px;
+}
+.footer{
+    width: 100%;
+    height: 304px;
+    background-color: black;
+    position: relative;
+}
+.zetta{
+    position: absolute;
+    top: 50px;
+    left: 139px;
+}
+.pbolo{
+    color: #B1B1B1;
+    font-size: 14px;
+    font-family: 'poppins';
+    height: 83px;
+    margin-top: 22px;
+    margin-bottom: 20px;
+}
+.zethot{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'poppins';
+    width: auto;
+    height: 32px;
+}
+.soc img{
+   margin-right: 25px;
+}
+.tin{
+    color: #B1B1B1;
+    font-size: 14px;
+    font-family: 'poppins';
+    margin-left: 70px;
+}
